@@ -235,6 +235,3 @@ To test the renewal process, you can do a dry run with certbot:
 sudo certbot renew --dry-run
 ```
 
-### 11. Visit your website HTTPS://<your website>
-  Enjoy Your free Nodejs server with Free SSL :)
-
