@@ -238,7 +238,3 @@ sudo certbot renew --dry-run
 ### 11. Visit your website HTTPS://<your website>
   Enjoy Your free Nodejs server with Free SSL :)
 
-Thanks for your support :)
-
-<a href="https://www.buymeacoffee.com/scaleupsaas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
